@@ -1,3 +1,10 @@
+### init-commit branch info
+### url: https://blissful-brown-f32b3e.netlify.app/
+- input city name to get weather info
+- inspect > applicaiton > app manifest
+- inspect > application > cache storage > version 1
+
+ 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
